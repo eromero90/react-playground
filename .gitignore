@@ -1,0 +1,14 @@
+#Ignore node modules
+/node_modules/
+
+#Ignore dist folder
+/dist/
+
+#Ignore vscode folder
+/.vscode/
+
+#Ignore debug log
+npm-debug.log
+
+
+
